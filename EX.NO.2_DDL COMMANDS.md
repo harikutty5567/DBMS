@@ -22,7 +22,7 @@ To create a student database and execute DDL queries using SQL.
 
 ## Query:
 ### 1) Create a database studentdb
-
+create database student_db;
 ### SQL QUERY:
 
 ### OUTPUT:
